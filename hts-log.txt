@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 27 Sep 2020 16:22:08 at https://www.sristy.edu.bd/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sristy.edu.bd/ -O1 "C:\Users\cex\Downloads\tamimiqbal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:22:25	Error: 	"Method Not Allowed" (405) at link https://www.sristy.edu.bd/xmlrpc.php (from https://www.sristy.edu.bd/)
+16:23:02	Warning: 	Moved Permanently for https://www.sristy.edu.bd/contact/
+16:23:02	Warning: 	File has moved from https://www.sristy.edu.bd/contact/ to https://www.sristy.edu.bd/contact-us/
+16:23:02	Warning: 	Moved Permanently for https://www.sristy.edu.bd/?p=10
+16:23:02	Warning: 	File has moved from https://www.sristy.edu.bd/?p=10 to https://www.sristy.edu.bd/chairman-speech/
+16:23:02	Warning: 	Moved Permanently for https://www.sristy.edu.bd/?p=19
+16:23:02	Warning: 	File has moved from https://www.sristy.edu.bd/?p=19 to https://www.sristy.edu.bd/seb/
+16:23:02	Warning: 	Moved Permanently for https://www.sristy.edu.bd/?p=15
+16:23:02	Warning: 	File has moved from https://www.sristy.edu.bd/?p=15 to https://www.sristy.edu.bd/eb/
+16:23:02	Warning: 	Moved Permanently for https://www.sristy.edu.bd/?p=50301
+16:23:02	Warning: 	File has moved from https://www.sristy.edu.bd/?p=50301 to https://www.sristy.edu.bd/gallery/
+16:23:02	Warning: 	Moved Permanently for https://www.sristy.edu.bd/?p=223822
+16:23:02	Warning: 	File has moved from https://www.sristy.edu.bd/?p=223822 to https://www.sristy.edu.bd/at-a-glance/
+16:23:02	Warning: 	Moved Permanently for https://www.sristy.edu.bd/?p=50600
+16:23:02	Warning: 	File has moved from https://www.sristy.edu.bd/?p=50600 to https://www.sristy.edu.bd/contact-us/
+16:23:03	Warning: 	Moved Permanently for https://www.sristy.edu.bd/?p=224810
+16:23:03	Warning: 	File has moved from https://www.sristy.edu.bd/?p=224810 to https://www.sristy.edu.bd/career/
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 197 links scanned, 187 files written (18749101 bytes overall) [14194413 bytes received at 258080 bytes/sec], 5999888 bytes transferred using HTTP compression in 39 files, ratio 23%, 28.1 requests per connection
+(1 errors, 16 warnings, 0 messages)
